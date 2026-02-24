@@ -3,7 +3,7 @@
   "image_id": "sha256:3e3b3b825414d38ca337e74972747f68452f1016e9bb8550165ff31cb54904f8",
   "original_filename": "微信图片_20260224160855_18519_2.jpg",
   "timestamps": {
-    "created_at": "2026-02-24T08:16:55.545Z"
+    "created_at": "2026-02-24T08:31:17.745Z"
   },
   "files": {
     "original": {
@@ -28,6 +28,16 @@
         "size": 800
       }
     }
+  },
+  "exif": {
+    "Make": "",
+    "Model": "",
+    "LensModel": "",
+    "DateTimeOriginal": "",
+    "ExposureTime": 0.005,
+    "FNumber": 2.8,
+    "ISO": 400,
+    "FocalLength": 35
   },
   "derived": {
     "dimensions": {
